@@ -1,0 +1,1 @@
+This project is just a small online store specializing in providing and distributing glass bottle products to meet the needs of consumers in general and food products, cosmetics, drugs, ... in particular.
